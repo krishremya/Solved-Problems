@@ -9,4 +9,3 @@ if __name__ == '__main__':
             print ('Not Weird')
     else:
         print ('Weird')
-        
